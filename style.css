@@ -1,10 +1,26 @@
+body {
+  background-image: url(./img/header.jpg);
+  border-radius: 20px;
+}
+
 header {
   text-align: center;
   margin: 20px;
 }
 
+#title {
+  font-family: DynaPuff, cursive;
+  font-size: 65px;
+  color: black;
+  text-shadow: 5px 8px 10px white;
+  /* padding: 40px;
+  width: 40%;
+  margin: auto;
+  background-image: url(./img/header.jpg);
+  border-radius: 20px; */
+}
+
 #color-palette {
-  border: 1px solid red;
   text-align: center;
 }
 
