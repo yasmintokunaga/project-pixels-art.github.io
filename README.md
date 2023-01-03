@@ -1,7 +1,23 @@
-# project-pixels-art.github.io
+# Projeto Pixels Art 🎨 🧑‍🎨
 
 Projeto realizado durante o curso de Desenvolvimento Web na Trybe em Dezembro, 2022.
 
-Conhecimentos técncicos utilizados: HTML, CSS, JavaScript (DOM, seletores, eventos, Local Storage).
+# Conhecimentos técnicos utilizados: 
 
-Objetivo: construir um quadro de pixels de tamanho ajustável, uma paleta de cores geradas de forma aleatória, e utilizar essa paleta para colorir o quadro. E por último, deixar salvo o tamanho do quadro, a paleta de cores e o desenho feito pelo usuário no Local Storage. 
+* HTML, 
+* CSS, 
+* JavaScript (DOM, seletores, eventos, Local Storage).
+
+# Objetivo: 
+
+Construir um quadro de pixels de tamanho ajustável para que o usuário possa colorir utilizando uma paleta de cores.
+
+# Requisitos:
+
+* Paleta de cores geradas de forma aleatória,
+* Botão para atualizar a paleta
+* Opção do usuário selecionar a cor e pintar o pixel ao clicar com o mouse
+* Incluir um input para alterar o tamanho do quadro
+* Salvar cores, tamanho do quadro e desenho feito pelo usuário no local storage.
+
+# Resultado:
