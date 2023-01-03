@@ -21,3 +21,5 @@ Construir um quadro de pixels de tamanho ajustável para que o usuário possa co
 * Salvar cores, tamanho do quadro e desenho feito pelo usuário no local storage.
 
 # Resultado:
+
+![resultado do meu projeto](./img/img-project-pixel-art.png)
